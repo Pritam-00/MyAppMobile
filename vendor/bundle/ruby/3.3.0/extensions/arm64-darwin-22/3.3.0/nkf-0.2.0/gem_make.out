@@ -1,0 +1,19 @@
+current directory: /Users/sagardas/Workspace/TheTrailMakers/MyAppMobile/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/Users/sagardas/.asdf/installs/ruby/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/sagardas/Workspace/TheTrailMakers/MyAppMobile/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240318-21393-xpdn61 sitelibdir\=./.gem.20240318-21393-xpdn61 clean
+
+current directory: /Users/sagardas/Workspace/TheTrailMakers/MyAppMobile/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240318-21393-xpdn61 sitelibdir\=./.gem.20240318-21393-xpdn61
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/sagardas/Workspace/TheTrailMakers/MyAppMobile/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240318-21393-xpdn61 sitelibdir\=./.gem.20240318-21393-xpdn61 install
+/opt/homebrew/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20240318-21393-xpdn61
+
+current directory: /Users/sagardas/Workspace/TheTrailMakers/MyAppMobile/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240318-21393-xpdn61 sitelibdir\=./.gem.20240318-21393-xpdn61 clean
