@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.myappmobile.app-mergeDebugResources-26:/values-lo/values-lo.xml",
+            "outputFile": "com.myappmobile.app-mergeDebugResources-27:/values-lo/values-lo.xml",
             "map": [
                 {
                     "source": "/Users/sagardas/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/res/values-lo/values-lo.xml",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/sagardas/.gradle/caches/transforms-3/e1231b5b187cb579b629117f9511a862/transformed/jetified-react-android-0.73.6-debug/res/values-lo/values-lo.xml",
+                    "source": "/Users/sagardas/.gradle/caches/transforms-3/65f520f887f0d0f390437980af8cd371/transformed/jetified-react-android-0.73.1-debug/res/values-lo/values-lo.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
