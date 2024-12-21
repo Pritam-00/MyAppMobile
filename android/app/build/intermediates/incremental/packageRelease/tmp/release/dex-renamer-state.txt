@@ -1,0 +1,4 @@
+#Sat Dec 21 16:29:27 IST 2024
+base.0=/Users/sagardas/Workspace/TheTrailMakers/MyAppMobile/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
